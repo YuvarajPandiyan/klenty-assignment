@@ -1,0 +1,8 @@
+.container {
+  background-color: rgb(29, 91, 61);
+  margin: 2rem;
+  padding: 1rem;
+  @media screen and (max-width: 1058px) {
+    margin: 0rem;
+  }
+}
