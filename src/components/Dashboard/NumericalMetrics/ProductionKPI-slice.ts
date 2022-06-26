@@ -1,4 +1,4 @@
-import { createSlice, PayloadAction } from "@reduxjs/toolkit";
+import { createSlice } from "@reduxjs/toolkit";
 import { faker } from "@faker-js/faker";
 
 export type productionMetricsValueTypes = "percentage" | "currency" | "number";
